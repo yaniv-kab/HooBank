@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (   
     <nav className="fixed flex py-6 items-center justify-between navbar">
-      <a href="home">
+      <a href="#home">
       <img src={logo} alt="hoobank" className="w-[124px] h-[32px] cursor-pointer" />
       </a>
 
